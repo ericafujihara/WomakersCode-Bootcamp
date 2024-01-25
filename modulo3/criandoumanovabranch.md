@@ -4,3 +4,5 @@ comando necessário para a crianção de uma nova branch via terminal
 
 git checkout -b nomedabranch
 
+texto da branch12
+
